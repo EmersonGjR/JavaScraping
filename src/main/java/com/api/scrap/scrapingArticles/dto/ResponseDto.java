@@ -6,4 +6,6 @@ import lombok.Data;
 public class ResponseDto {
     Integer index;
     String url;
+    String title;
+    String text;
 }
